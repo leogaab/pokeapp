@@ -23,6 +23,7 @@ const theme = {
     black: '#000',
     white: '#FFF',
     blue: '#003A70',
+    grey5: '#efefef'
   },
 }
 
